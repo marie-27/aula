@@ -1,10 +1,10 @@
 body{
- color:gold;
- background:black;
+ color:white;
+ background:cinza claro;
  margin:0px;
 }
 header{
  border-bottom:solid 2px rgb(42, 122, 228);
  padding:32px;
- color:rgb(212, 175, 55);
+ color:rgb(205 205, 205);
 }
